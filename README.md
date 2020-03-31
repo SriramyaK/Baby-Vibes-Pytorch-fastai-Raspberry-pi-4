@@ -2,7 +2,7 @@
 
 Pytorch Baby-moods Happy/Crying Image Classifier built using fastai, Python-flask, javascript, html, css, bootstrap and deployed on Raspberry Pi 4 
 
-# Installation
+## Installation
 
 ``` 
 mkdir project_folder
@@ -12,13 +12,13 @@ source env/bin/activate
 
 ```
 
-# Install dependencies first:
+### Install dependencies first:
 
 ```
 sudo apt install libopenblas-dev libblas-dev m4 cmake cython python3-dev python3-yaml python3-setuptools python3-wheel python3-pillow python3-numpy 
 ```
 
-# Install torch, torchvision and Fastai
+### Install torch, torchvision and Fastai
 
 ```
 pip3 install torch-1.3.0a0+deadc27-cp37-cp37m-linux_armv7l.whl
