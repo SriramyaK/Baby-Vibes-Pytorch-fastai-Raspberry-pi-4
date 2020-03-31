@@ -1,7 +1,11 @@
 # Baby-Vibes-Pytorch-Fastai-Raspberry-pi-4b
 
 Pytorch Baby-moods Happy/Crying Image Classifier built using fastai, Python-flask, javascript, html, css, bootstrap and deployed on Raspberry Pi 4 
+
+
 ![Baby Vibes](https://github.com/SriramyaK/Baby-Vibes-Pytorch-fastai-Raspberry-pi-4/blob/master/Home.png)
+
+
 ## Prerequisites
 
 - Raspberry Pi 4
