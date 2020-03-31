@@ -28,6 +28,7 @@ source env/bin/activate
 ```
 sudo apt install libopenblas-dev libblas-dev m4 cmake cython python3-dev python3-yaml python3-setuptools python3-wheel python3-pillow python3-numpy 
 ```
+Download [torch-1.3](https://drive.google.com/uc?export=download&id=1Xa1GnGaxDn4hHJDzr2cd8fW5aT7XqIxQ) and [torchvision-0.4](https://drive.google.com/uc?export=download&id=1nhk7PKDUzcmGGwnx7PK7iW3__2fOJVl1)
 
 ### Install torch, torchvision and Fastai
 
