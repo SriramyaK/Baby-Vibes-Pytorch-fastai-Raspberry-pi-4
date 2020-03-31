@@ -57,3 +57,13 @@ Rename these files to below format:
 _C.so
 _dl.so
 ```
+To test if everything was installed correctly, log into your python terminal and run the commands:
+
+```
+$ python3.7
+
+>>> import torch
+>>> import torchvision
+>>> import fastai
+
+```
