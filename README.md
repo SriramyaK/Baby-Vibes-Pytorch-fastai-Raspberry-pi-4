@@ -16,8 +16,6 @@ Pytorch Baby-moods Happy/Crying Image Classifier built using fastai, Python-flas
 ## Installation
 
 ``` 
-mkdir project_folder
-cd project_folder
 python3 -m virtualenv env
 source env/bin/activate 
 
@@ -53,7 +51,7 @@ Please refer [this](https://github.com/pytorch/pytorch/issues/574#issuecomment-2
 Your path may look like this if your are following along using the same project_folder and env variables:
 
 ```
-$ cd pi/home/env/local/python3.7/dist-packages/torch
+$ cd pi/home/env/lib/python3.7/site-packages/torch
 ```
 
 Inside this folder you will find two files with names like this:
