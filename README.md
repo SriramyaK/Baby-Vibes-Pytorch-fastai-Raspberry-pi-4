@@ -1,7 +1,8 @@
 # Baby-Vibes-Pytorch-Fastai-Raspberry-pi-4b
 
-Pytorch Baby-moods Happy/Crying Image Classifier built using fastai, Python-flask, javascript, html, css, bootstrap and deployed on Raspberry Pi 4 
+While the entire world is fighting Covid-19, everybody is struggling to work from home in one or the other way. Especially families who are handling their kids/babies along with their hectic jobs. This scenario inspired me to find a way to monitor our Babies/toddlers when we are busy working or handling calls from home.
 
+Baby-Vibes uses Image classification to identify crying baby and pass a Voice command to Google Home to play their favourite cartoon for e.g. Tom and Jerry in this case, while we excuse us from every one and come to their rescue.
 
 ![Baby Vibes](https://github.com/SriramyaK/Baby-Vibes-Pytorch-fastai-Raspberry-pi-4/blob/master/Home.png)
 
