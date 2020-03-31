@@ -2,6 +2,17 @@
 
 Pytorch Baby-moods Happy/Crying Image Classifier built using fastai, Python-flask, javascript, html, css, bootstrap and deployed on Raspberry Pi 4 
 
+## Prerequisites
+
+- Raspberry Pi 4
+   - In order to check if the given wheel file (or any wheel file for Raspberry Pi for a specific Python package) is compatible with          your RPi’s processor architecture, type in the following:
+   
+      ``` uname -a ```
+      
+   - If you get the compatible version of processor architecture in terminal as armv7l, continue with the installation.
+   
+- Python 3.7
+
 ## Installation
 
 ``` 
