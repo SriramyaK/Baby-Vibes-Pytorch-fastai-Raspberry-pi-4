@@ -18,7 +18,6 @@ Pytorch Baby-moods Happy/Crying Image Classifier built using fastai, Python-flas
 ``` 
 python3 -m virtualenv env
 source env/bin/activate 
-
 ```
 
 ### Install dependencies first:
@@ -26,7 +25,7 @@ source env/bin/activate
 ```
 sudo apt install libopenblas-dev libblas-dev m4 cmake cython python3-dev python3-yaml python3-setuptools python3-wheel python3-pillow python3-numpy 
 ```
-Download [torch-1.3](https://drive.google.com/uc?export=download&id=1Xa1GnGaxDn4hHJDzr2cd8fW5aT7XqIxQ) and [torchvision-0.4](https://drive.google.com/uc?export=download&id=1nhk7PKDUzcmGGwnx7PK7iW3__2fOJVl1) wheel files.
+Download [torch-1.3](https://wintics-opensource.s3.eu-west-3.amazonaws.com/torch-1.3.0a0%2Bdeadc27-cp37-cp37m-linux_armv7l.whl) and [torchvision-0.4](https://drive.google.com/uc?export=download&id=1nhk7PKDUzcmGGwnx7PK7iW3__2fOJVl1) wheel files.
 
 ### Install torch, torchvision and Fastai
 
@@ -77,6 +76,9 @@ $ python3.7
 >>> import fastai
 
 ```
+Now you are ready to install project specific requirements - 
+
+``` pip3 install requirements.txt ```
 
 
 
