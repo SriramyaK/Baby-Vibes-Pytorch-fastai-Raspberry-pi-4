@@ -40,14 +40,20 @@ Please refer [this](https://github.com/pytorch/pytorch/issues/574#issuecomment-2
 
 Your path may look like this if your are following along using the same project_folder and env variables:
 
+```
 $ cd pi/home/env/local/python3.7/dist-packages/torch
+```
+
 Inside this folder you will find two files with names like this:
 
+```
 _CXXXXXXXX.so
 _dlXXXXXXXX.so
 (XXXXXXX represents just any name)
+```
 
 Rename these files to below format:
-
+```
 _C.so
 _dl.so
+```
