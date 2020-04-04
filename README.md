@@ -83,7 +83,9 @@ $ python3.7
 ```
 Now you are ready to install project specific requirements - 
 
-``` pip3 install requirements.txt ```
+``` pip3 install requirements.txt 
+python3 app.py
+```
 
 
 
